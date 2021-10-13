@@ -5,8 +5,8 @@
 
 ### - 🔭 I’m currently working on ...
 1. Job hunting
-1. Seek to connect [my front end capstone](https://github.com/gradyrobbins/fifty) project to Persistent Data Storage; using a json-server does not meet customer's needs
-1. Browse open source GIS repositories & tutorials.
+1. Connect [my front end capstone](https://github.com/gradyrobbins/fifty) with Persistent Data Storage; using a json-server does not meet customer's needs
+1. Learn more about open source GIS repositories & tutorials
 1. Stathunter's Tableau Tutorial
 
 <!--
