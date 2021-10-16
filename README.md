@@ -4,7 +4,6 @@
 
 ### - 🔭 I’m currently working on ...
 1. Job hunting
-2. www.gradyrobbins.com ==> [html audit](https://validator.w3.org/nu/)
 3. Connect [my front end capstone](https://github.com/gradyrobbins/fifty) with Persistent Data Storage; using a json-server does not meet customer's needs
 4. Learn more about open source GIS repositories & tutorials
 5. Stathunter's Tableau Tutorial
