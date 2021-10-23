@@ -4,10 +4,10 @@
 
 ### - 🔭 I’m currently working on ...
 1. Job hunting
-2. ThreeJS tutorials exploratory learning
+2. Exploratory learning => Stathunter's Tableau Tutorial
 3. Connect [my front end capstone](https://github.com/gradyrobbins/fifty) with Persistent Data Storage; using a json-server does not meet customer's needs
-4. Learn more about open source GIS repositories & tutorials
-5. Stathunter's Tableau Tutorial
+4. Exploratory learning => open source GIS repositories & tutorials
+
 
 <!--
 **gradyrobbins/gradyrobbins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
