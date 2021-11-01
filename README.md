@@ -4,9 +4,8 @@
 
 ### - 🔭 I’m currently working on ...
 1. Job hunting
-2. Exploratory learning => Stathunter's Tableau Tutorial
-3. Connect [my front end capstone](https://github.com/gradyrobbins/fifty) with Persistent Data Storage; using a json-server does not meet customer's needs
-4. Exploratory learning => open source GIS repositories & tutorials
+2. Connect [my front end capstone](https://github.com/gradyrobbins/fifty) with Persistent Data Storage; using a json-server does not meet customer's needs
+
 
 
 <!--
@@ -22,5 +21,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+2. Exploratory learning => Stathunter's Tableau Tutorial
+4. Exploratory learning => open source GIS repositories & tutorials
 -->
 
