@@ -1,4 +1,5 @@
-# GRADY ROBBINS: [ISFP-T](https://www.16personalities.com/isfp-personality)
+# GRADY ROBBINS: RELATIONSHIP BUILDER | DOER | STRATEGIC THINKER
+
 
 
 
@@ -25,5 +26,5 @@ Here are some ideas to get you started:
 
 2. Exploratory learning => Stathunter's Tableau Tutorial
 4. Exploratory learning => open source GIS repositories & tutorials
--->
+[ISFP-T](https://www.16personalities.com/isfp-personality)-->
 
