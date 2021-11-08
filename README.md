@@ -5,7 +5,8 @@
 
 ### - 🔭 I’m currently working on ...
 1. Job hunting
-2. Facilitate a persistent data storage on [my front end capstone](https://github.com/gradyrobbins/fifty); using Heroku + a json-server does not meet customer's needs; exploring [web services provided by render.com](https://render.com/docs/web-services) as an option
+2. Facilitate a persistent data storage on [my front end capstone](https://github.com/gradyrobbins/fifty); using Heroku + a json-server does not meet customer's needs; 
+3. Exploring [web services provided by render.com](https://render.com/docs/web-services) towards that goal.
 
 
 
