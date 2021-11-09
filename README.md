@@ -6,8 +6,8 @@
 ### - 🔭 I’m currently working on ...
 1. Job hunting
 2. Facilitate a persistent data storage on [my front end capstone](https://github.com/gradyrobbins/fifty); using Heroku + a json-server does not meet customer's needs; 
-3. Exploring [web services provided by render.com](https://render.com/docs/web-services) towards that goal.
-
+3. Exploring [web services provided by render.com](https://render.com/docs/web-services) towards that goal. According to them:
+```Web services are kept up and running at all times, with native SSL and HTTP/2 support. Add a persistent disk or custom domain. ```
 
 
 <!--
