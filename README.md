@@ -1,6 +1,4 @@
-
-
-## 🤔 I’m looking for help with [this issue](https://github.com/Daniel-Brewer/Daniel-Brewer.github.io/issues/3#issue-10724575282)
+⚡ [Fun fact:](https://www.travelawaits.com/2398171/25-amazing-facts-about-nashville/) President Theodore Roosevelt coined the phrase “good to the last drop” after drinking a cup of local Nashville coffee at the Maxwell House Hotel.
 
 
 <!--
