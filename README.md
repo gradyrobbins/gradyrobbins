@@ -1,24 +1,22 @@
 # RELATIONSHIP BUILDER • DOER • STRATEGIC THINKER
 
-
-
-
-### - 🔭 I’m currently working on ...
-1. Job hunting
-2. Facilitate persistent data storage on [my front end capstone](https://github.com/gradyrobbins/fifty)
-3. Exploring [web services provided by render.com](https://render.com/docs/web-services) towards that goal.  According to them: <br/>
-```Web services are kept up and running at all times, with native SSL and HTTP/2 support. Add a persistent disk or custom domain. ```
+## 🤔 I’m looking for help with [this issue](https://github.com/Daniel-Brewer/Daniel-Brewer.github.io/issues/3#issue-10724575282)
 
 
 <!--
 **gradyrobbins/gradyrobbins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 Here are some ideas to get you started:
+### - 🔭 I’m currently working on ...
+1. Job hunting
+2. Facilitate persistent data storage on [my front end capstone](https://github.com/gradyrobbins/fifty)
+3. Exploring [web services provided by render.com](https://render.com/docs/web-services) towards that goal.  According to them: <br/>
+```Web services are kept up and running at all times, with native SSL and HTTP/2 support. Add a persistent disk or custom domain. ```
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
