@@ -1,4 +1,4 @@
-# RELATIONSHIP BUILDER • DOER • STRATEGIC THINKER
+
 
 ## 🤔 I’m looking for help with [this issue](https://github.com/Daniel-Brewer/Daniel-Brewer.github.io/issues/3#issue-10724575282)
 
@@ -7,6 +7,7 @@
 **gradyrobbins/gradyrobbins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 Here are some ideas to get you started:
+# RELATIONSHIP BUILDER • DOER • STRATEGIC THINKER
 ### - 🔭 I’m currently working on ...
 1. Job hunting
 2. Facilitate persistent data storage on [my front end capstone](https://github.com/gradyrobbins/fifty)
