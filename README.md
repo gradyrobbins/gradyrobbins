@@ -1,5 +1,4 @@
-⚡ [Fun fact:](https://www.travelawaits.com/2398171/25-amazing-facts-about-nashville/) President Theodore Roosevelt coined the phrase “good to the last drop” after drinking a cup of local Nashville coffee at the Maxwell House Hotel.
-
+⚡ President Theodore Roosevelt coined the phrase “good to the last drop” after drinking a cup of local Nashville coffee at the Maxwell House Hotel. [source](https://www.travelawaits.com/2398171/25-amazing-facts-about-nashville/)
 
 <!--
 **gradyrobbins/gradyrobbins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
