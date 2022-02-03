@@ -1,5 +1,6 @@
-⚡ President Theodore Roosevelt coined the phrase “good to the last drop” after drinking a cup of local Nashville coffee at the Maxwell House Hotel. [source](https://www.travelawaits.com/2398171/25-amazing-facts-about-nashville/)
-
+- 🌱 I’m currently learning:  [Responsive Design](https://youtu.be/bn-DQCifeQQ)
+<!-- ⚡ President Theodore Roosevelt coined the phrase “good to the last drop” after drinking a cup of local Nashville coffee at the Maxwell House Hotel. [source](https://www.travelawaits.com/2398171/25-amazing-facts-about-nashville/)
+ -->
 <!--
 **gradyrobbins/gradyrobbins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
@@ -12,7 +13,7 @@ Here are some ideas to get you started:
 ```Web services are kept up and running at all times, with native SSL and HTTP/2 support. Add a persistent disk or custom domain. ```
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Responsive Design from Kevin Powell https://youtu.be/bn-DQCifeQQ
 - 👯 I’m looking to collaborate on ...
 
 - 💬 Ask me about ...
