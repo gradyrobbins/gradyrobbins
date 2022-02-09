@@ -1,7 +1,6 @@
-🌱 I’m currently learning:  
-
-- [Mindfulness](https://www.headspace.com/mindfulness/mindfulness-101) — the ability to be fully present in the moment — can have numerous benefits, everything from decreased stress and sadness to increased levels of focus and happiness
-- Git upgrade > 2.27
+# 🌱 I’m currently learning:
+## ° [Mindfulness](https://www.headspace.com/mindfulness/mindfulness-101) — the ability to be fully present in the moment — can have numerous benefits, everything from decreased stress and sadness to increased levels of focus and happiness
+## ° The MERN Stack - Express & MongoDB Rest API [tutorial](https://youtu.be/-0exw-9YJBo)
 <!-- ⚡ President Theodore Roosevelt coined the phrase “good to the last drop” after drinking a cup of local Nashville coffee at the Maxwell House Hotel. [source](https://www.travelawaits.com/2398171/25-amazing-facts-about-nashville/)
  -->
 <!--
