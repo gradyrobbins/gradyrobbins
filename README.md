@@ -1,9 +1,9 @@
-## 🌱 I’m currently learning:
+## 🌱 I’m currently learning: the MERN stack + [Mindfulness](https://www.headspace.com/mindfulness/mindfulness-101) 
 
-#   [Mindfulness](https://www.headspace.com/mindfulness/mindfulness-101) week 5 of 8
-### Mindfulness meditation doesn’t only change our mindset and perspective, it actually can change the shape of our brains. Generalized neuroimaging meditation studies found that 8 weeks of mindfulness meditation also changes our brains, rewiring them towards more positive thoughts and emotions.
+###  meditation can change the shape of our brains. 
+###### Generalized neuroimaging meditation studies found that 8 weeks of mindfulness meditation also changes our brains, rewiring our mindset and perspective towards more positive thoughts and emotions.
 
-#   The MERN Stack - MongoDB, Express, React, Node.js 
+#   MongoDB • Express • React • Node.js 
 
 ### 1. [Express & MongoDB Rest API](https://youtu.be/-0exw-9YJBo) - *complete*
 ### 2. [JWT Authentication](https://youtu.be/enopDSs3DRw) *WIP*
