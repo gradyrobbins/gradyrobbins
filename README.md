@@ -4,7 +4,7 @@
 # 🌱[MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) - MongoDB • Express • React • Node.js 
 
 - [x]  *complete* [Express & MongoDB Rest API](https://youtu.be/-0exw-9YJBo) <br/>
-- [ ]  *WIP*: [JWT Authentication](https://youtu.be/enopDSs3DRw) 
+- [JWT Authentication](https://youtu.be/enopDSs3DRw) work in progress
 - [ ]  [Frontend Authentication | Redux Toolkit](https://youtu.be/mvfsC66xqj0) 
 - [ ]  [Redux Goals & Deploy](https://youtu.be/UXjMo25Nnvc)
 <!-- ⚡ President Theodore Roosevelt coined the phrase “good to the last drop” after drinking a cup of local Nashville coffee at the Maxwell House Hotel. [source](https://www.travelawaits.com/2398171/25-amazing-facts-about-nashville/)
