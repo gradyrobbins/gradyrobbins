@@ -1,14 +1,12 @@
-## 🌱 I’m currently learning: 
-# the MERN stack + [Mindfulness](https://www.headspace.com/mindfulness/mindfulness-101) 
+### 🌱 I’m currently learning: 
+#  [Mindfulness](https://www.headspace.com/mindfulness/mindfulness-101) : Generalized neuroimaging meditation studies found that 8 weeks of mindfulness meditation can change the shape of our brains. 
 
-### Generalized neuroimaging meditation studies found that 8 weeks of mindfulness meditation can change the shape of our brains. Neuroplasticity!
-
-##   MongoDB • Express • React • Node.js 
+# [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) - MongoDB • Express • React • Node.js 
 
 ###### 1. [Express & MongoDB Rest API](https://youtu.be/-0exw-9YJBo) - *complete*
 ## 2. [JWT Authentication](https://youtu.be/enopDSs3DRw) *WIP*
 ###### 3. [Frontend Authentication | Redux Toolkit](https://youtu.be/mvfsC66xqj0) 
-
+###### 4. [Redux Goals & Deploy](https://youtu.be/UXjMo25Nnvc)
 <!-- ⚡ President Theodore Roosevelt coined the phrase “good to the last drop” after drinking a cup of local Nashville coffee at the Maxwell House Hotel. [source](https://www.travelawaits.com/2398171/25-amazing-facts-about-nashville/)
  -->
 <!--
