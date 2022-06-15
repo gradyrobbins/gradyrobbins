@@ -1,6 +1,9 @@
 ### What I’m learning: 
 # 🌱 [Mindfulness](https://www.headspace.com/mindfulness/mindfulness-101) : Generalized neuroimaging meditation studies found that 8 weeks of mindfulness meditation can change the shape of our brains. 
 
+## Remaining research quandaries
+Although there are some known benefits of meditation for mental and physical health, researchers are still looking into the best methods for objectively measuring how the practice affects the brain.  [source: ](https://www.cnn.com/2022/06/13/health/meditation-science-wellness/index.html)
+
 <!-- # 🌱 [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) - MongoDB • Express • React • Node.js 
 
 - [x]  [Express & MongoDB Rest API](https://youtu.be/-0exw-9YJBo) &rarr; *complete* <br/>
