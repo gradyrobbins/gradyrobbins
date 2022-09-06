@@ -1,8 +1,9 @@
-### What I’m learning: 
-# 🌱 [Mindfulness](https://www.headspace.com/mindfulness/mindfulness-101) : Generalized neuroimaging meditation studies found that 8 weeks of mindfulness meditation can change the shape of our brains. 
+# What I'm working on: 
+# 🌱 [Mindfulness via Headspace/Netflix](https://www.headspace.com/mindfulness/mindfulness-101) A beginner's guide to being kind to your mind.  Discover tools to help let go, reduce stress, manage negative emotions and live in the moment.
+# 💨 Breathwork : [iBreathe app is completely free and ad-free](https://apps.apple.com/us/app/ibreathe-relax-and-breathe/id1296605806) is an app that I use  to relax, calm down and meditate. 
+# 🤸‍♂️ Stretching : [20 minute stretching routine for beginners and the inflexible](https://www.youtube.com/watch?v=I9ZRSpLTSu8), compliments of D. Suarez 
 
-## Remaining research quandaries
-Although there are some known benefits of meditation for mental and physical health, researchers are still looking into the best methods for objectively measuring how the practice affects the brain.  [source: ](https://www.cnn.com/2022/06/13/health/meditation-science-wellness/index.html)
+
 
 <!-- # 🌱 [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) - MongoDB • Express • React • Node.js 
 
