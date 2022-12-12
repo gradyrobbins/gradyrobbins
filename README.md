@@ -1,7 +1,7 @@
 # What I'm working on: 
-# 🌱 [Mindfulness via Headspace/Netflix](https://www.headspace.com/mindfulness/mindfulness-101) A beginner's guide to being kind to your mind.  Discover tools to help let go, reduce stress, manage negative emotions and live in the moment.
-# 💨 Breathwork : [iBreathe app is completely free and ad-free](https://apps.apple.com/us/app/ibreathe-relax-and-breathe/id1296605806) is an app that I use  to relax, calm down and meditate. 
-# 🤸‍♂️ Stretching : [20 minute stretching routine for beginners and the inflexible](https://www.youtube.com/watch?v=I9ZRSpLTSu8), compliments of D. Suarez 
+# 🌱 Mindfulness : [Discover tools to help let go, reduce stress, manage negative emotions and live in the moment.](https://www.headspace.com/mindfulness/mindfulness-101)
+# 💨 Breathwork : [the iBreathe app is completely free and ad-free](https://apps.apple.com/us/app/ibreathe-relax-and-breathe/id1296605806) 
+# 🤸‍♂️ Stretching : [20 minute stretching routine for beginners ](https://www.youtube.com/watch?v=I9ZRSpLTSu8)
 
 
 
