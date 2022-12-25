@@ -1,12 +1,12 @@
-# What I'm working on: 
-# 🌱 Mindfulness : [Discover tools to help let go, reduce stress, manage negative emotions and live in the moment.](https://www.headspace.com/mindfulness/mindfulness-101)
-# 💨 Breathwork : [the iBreathe app is completely free and ad-free](https://apps.apple.com/us/app/ibreathe-relax-and-breathe/id1296605806) 
-# 🤸‍♂️ Stretching : 
-[20 minute stretching routine for beginners ](https://www.youtube.com/watch?v=I9ZRSpLTSu8)
+# What I'm working on
+#  [🌱 Mindfulness  ](https://www.headspace.com/mindfulness/mindfulness-101)
+#  [💨 Breathwork ](https://apps.apple.com/us/app/ibreathe-relax-and-breathe/id1296605806) 
+#  🤸‍♂️ Stretching routines for beginners
+ ## [      2️⃣ 0️⃣ minute routine ](https://www.youtube.com/watch?v=I9ZRSpLTSu8)
 
-[30 minute stretching routine for beginners ](https://www.youtube.com/watch?v=TtyJ_qlFX4E)
+ ## [      3️⃣ 0️⃣ minute routine ](https://www.youtube.com/watch?v=TtyJ_qlFX4E)
 
-# [How to ask for help : ](https://share.icloud.com/photos/0dflO1smQSzG7R7f7fCh7OfDg)
+# [ ❔❓ How to ask for help  ❓❔ ](https://share.icloud.com/photos/0dflO1smQSzG7R7f7fCh7OfDg)
 
 
 
