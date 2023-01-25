@@ -6,11 +6,11 @@
 
  ## [      3️⃣ 0️⃣ minute routine ](https://www.youtube.com/watch?v=TtyJ_qlFX4E)
 
-# [ ❔❓ How to ask for help  ❓❔ ](https://share.icloud.com/photos/0dflO1smQSzG7R7f7fCh7OfDg)
+<!--# [ ❔❓ How to ask for help  ❓❔ ](https://share.icloud.com/photos/0dflO1smQSzG7R7f7fCh7OfDg)
 
 
 
-<!-- # 🌱 [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) - MongoDB • Express • React • Node.js 
+ # 🌱 [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) - MongoDB • Express • React • Node.js 
 
 - [x]  [Express & MongoDB Rest API](https://youtu.be/-0exw-9YJBo) &rarr; *complete* <br/>
 -  [JWT Authentication](https://youtu.be/enopDSs3DRw) *in progress*
