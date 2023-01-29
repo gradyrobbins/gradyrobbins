@@ -1,16 +1,18 @@
 # What I'm working on
-#  [🌱 Mindfulness  ](https://www.headspace.com/mindfulness/mindfulness-101)
-#  [💨 Breathwork ](https://apps.apple.com/us/app/ibreathe-relax-and-breathe/id1296605806) 
-#  🤸‍♂️ Stretching routines for beginners
- ## [      2️⃣ 0️⃣ minute routine ](https://www.youtube.com/watch?v=I9ZRSpLTSu8)
+##  [🌱 Mindfulness  ](https://www.headspace.com/mindfulness/mindfulness-101)
+## [💨 Breathwork ](https://apps.apple.com/us/app/ibreathe-relax-and-breathe/id1296605806) 
+ ## [   🤸‍♂️   2️⃣ 0️⃣ minute stretch for beginners ](https://www.youtube.com/watch?v=I9ZRSpLTSu8)
 
- ## [      3️⃣ 0️⃣ minute routine ](https://www.youtube.com/watch?v=TtyJ_qlFX4E)
+ ## [   🤸‍♂️   3️⃣ 0️⃣ minute stretch for beginners ](https://www.youtube.com/watch?v=TtyJ_qlFX4E)
 
-<!--# [ ❔❓ How to ask for help  ❓❔ ](https://share.icloud.com/photos/0dflO1smQSzG7R7f7fCh7OfDg)
+## [ ❔❓ How to ask for help  ❓❔ ](https://share.icloud.com/photos/0dflO1smQSzG7R7f7fCh7OfDg)
+
+## [US State Quarter collections for my nieces and nephews](https://www.gradyrobbins.com)
+
+### BONUS CONTENT: [2 FREE ideas](https://twitter.com/flux_capacitir/status/1516627244730441730?s=20&t=Hvm4bUc_VSOEmoh4pa4VWw)
 
 
-
- # 🌱 [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) - MongoDB • Express • React • Node.js 
+<!-- # 🌱 [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) - MongoDB • Express • React • Node.js 
 
 - [x]  [Express & MongoDB Rest API](https://youtu.be/-0exw-9YJBo) &rarr; *complete* <br/>
 -  [JWT Authentication](https://youtu.be/enopDSs3DRw) *in progress*
