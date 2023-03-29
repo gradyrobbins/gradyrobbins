@@ -9,8 +9,8 @@
  ## [   🤸‍♂️   3️⃣ 0️⃣ minute stretch for beginners ](https://www.youtube.com/watch?v=TtyJ_qlFX4E)
 
 ## Updating [my homepage](https://www.gradyrobbins.com) for responsive/smartphone accessibility: 
-
-### BONUS CONTENT: [2 FREE ideas](https://twitter.com/flux_capacitir/status/1516627244730441730?s=20&t=Hvm4bUc_VSOEmoh4pa4VWw)
+----- 
+*[BONUS CONTENT](https://twitter.com/flux_capacitir/status/1516627244730441730?s=20&t=Hvm4bUc_VSOEmoh4pa4VWw)*
 
 
 <!-- 
