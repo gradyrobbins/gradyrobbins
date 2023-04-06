@@ -1,9 +1,12 @@
-## Greetings from The Wonderful Past. 
+## Greetings 
+## from The Wonderful Past. 
 ### Anyway you look *AMAZING*
 
+*[ gradyrobbins.com](https://gradyrobbins.com)*
 ----- 
 *[ 2 ideas | 1 tweet ](https://twitter.com/flux_capacitir/status/1516627244730441730?s=20&t=Hvm4bUc_VSOEmoh4pa4VWw)* 
-* [ ](https://gradyrobbins.com) *
+
+
 <!-- 
 
 # SAFETY
