@@ -1,10 +1,16 @@
-## Greetings from The Wonderful Past
-### Anyway you look 
-# *AMAZING*
 
 *[ gradyrobbins.com](https://gradyrobbins.com)*
 
 *[ 2 ideas | 1 tweet ](https://twitter.com/flux_capacitir/status/1516627244730441730?s=20&t=Hvm4bUc_VSOEmoh4pa4VWw)* 
+
+## [Laney's Quarter Collection](https://docs.google.com/document/d/1RI6V1Os9OepC0Iv-jfIkD-v5jy1SAsgRs6VaPrwWXSA/edit)
+
+## [Mary Mac's Quarter Collection](https://docs.google.com/document/d/1UpBsMe2M-PwmTTnDKMn7kK-esIiWLr5Ui3pyxJFQXks/edit)
+
+## [Molly Patrick's Quarter Collection](https://docs.google.com/document/d/1V1XCTLNmT9i6ViEI-XAgnH6fAwsGOlITskollDS9X_0/edit)
+
+
+
 
 <!-- 
 
