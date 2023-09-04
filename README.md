@@ -1,8 +1,11 @@
 
-# 
-![](https://github.com/gradyrobbins/gradyrobbins/assets/38964004/99a7c379-bac9-4142-b252-421b6718240a)
-:heart: [🤔•:bulb:](https://twitter.com/flux_capacitir/status/1516627244730441730?s=20&t=Hvm4bUc_VSOEmoh4pa4VWw)
-:house:[HOME](https://www.gradyrobbins.com/)
+
+
+[💡 2 free ideas: 💡  ](https://twitter.com/flux_capacitir/status/1516627244730441730?s=20&t=Hvm4bUc_VSOEmoh4pa4VWw)
+
+[ :house: Home ](https://www.gradyrobbins.com/)
+
+![](https://github.com/gradyrobbins/gradyrobbins/blob/main/tubing.jpg)
 
 <!-- 
 
