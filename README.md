@@ -1,24 +1,31 @@
 
 
+# SAFETY FIRST
+## ![image](https://user-images.githubusercontent.com/38964004/220451187-f8beaf28-5404-414f-81ff-253ac0203c71.png) [I'M SAFE  ](https://images.app.goo.gl/VHCUo3rkjxv9urHD8)  checklist 
+- [ ] I : Illness
+- [ ] M : Medication
+- [ ] S : Stress
+- [ ] A : Alcohol
+- [ ] F : Fatigue
+- [ ] E : Emotions
 
-[💡 2 free ideas: 💡  ](https://twitter.com/flux_capacitir/status/1516627244730441730?s=20&t=Hvm4bUc_VSOEmoh4pa4VWw)
 
-[ :house: Home ](https://www.gradyrobbins.com/)
 
 ![](https://github.com/gradyrobbins/gradyrobbins/blob/main/tubing.jpg)
 
+
+
+
+
+
+[💡 2 free ideas: 💡  ](https://twitter.com/flux_capacitir/status/1516627244730441730?s=20&t=Hvm4bUc_VSOEmoh4pa4VWw)
+
+
+
+[ :house: Home ](https://www.gradyrobbins.com/)
+
+
 <!-- 
-
-# SAFETY
-## ![image](https://user-images.githubusercontent.com/38964004/220451187-f8beaf28-5404-414f-81ff-253ac0203c71.png) [I'M SAFE  ](https://images.app.goo.gl/VHCUo3rkjxv9urHD8)  checklist
-- [ ] I : Illness
-- [ ] M : Medication
-- [ ] Stress, 
-- [ ] Alcohol,
-- [ ] Fatigue,
-- [ ] Emotions
-
-
 # HEALTH
 ##  [🌱 Mindfulness  ](https://www.headspace.com/mindfulness/mindfulness-101)
 ## [💨 Breathwork ](https://apps.apple.com/us/app/ibreathe-relax-and-breathe/id1296605806) 
@@ -49,7 +56,7 @@ Here are some ideas to get you started:
 ```Web services are kept up and running at all times, with native SSL and HTTP/2 support. Add a persistent disk or custom domain. ```
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Responsive Design from Kevin Powell https://youtu.be/bn-DQCifeQQ
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 
 - 💬 Ask me about ...
