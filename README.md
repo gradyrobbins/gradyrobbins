@@ -18,7 +18,6 @@
 
 
 
-[💡 2 free ideas: 💡  ](https://twitter.com/flux_capacitir/status/1516627244730441730?s=20&t=Hvm4bUc_VSOEmoh4pa4VWw)
 
 
 
